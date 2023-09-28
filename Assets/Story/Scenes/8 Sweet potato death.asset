@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 8 Sweet potato death
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: (panting breathing)
+    speaker: {fileID: 11400000, guid: 2a27b06558be9c04fbfd703ba47acb26, type: 2}
+  - text: Wait PLZ DON'T I GIVE YO...
+    speaker: {fileID: 11400000, guid: 2a27b06558be9c04fbfd703ba47acb26, type: 2}
+  - text: (Sword Slash)
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  - text: VICTORY IS OURS
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: (Loud cheers from the soldiers)
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  - text: (A shiny red stone sparkling from the kings corpse)
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  - text: Upon picking it up, it is a philosopher's stone
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  - text: You questioned yourself what would happened if you use it.
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  background: {fileID: 21300000, guid: 0932175f0aa96304ea1bdd198dc3aa54, type: 3}
+  nextScene: {fileID: 11400000, guid: a1e08e479df8934488e677524b3bb994, type: 2}

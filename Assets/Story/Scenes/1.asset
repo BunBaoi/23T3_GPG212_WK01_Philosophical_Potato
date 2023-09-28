@@ -15,9 +15,19 @@ MonoBehaviour:
   sentences:
   - text: Where am I?
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-  - text: HELLO!!! Human
+  - text: 'Greetings human I am the Potato King of these lands And who am I speaking
+      to? '
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
-  - text: It is I King Potato
+  - text: My name is Lucas and what am I doing here, why are you a potato?
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: 'You are summoned here with gifted abilities given to you and this is the
+      land of the potatoes we are at war with other potatoes. '
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: "Ok\u2026"
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: (Kricket silence sounds)
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  - text: 'Anyways let my servants guide you and I will meet you again tomorrow. '
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
   background: {fileID: 21300000, guid: b370024f0c806144d8cf08ccb41224a6, type: 3}
-  nextScene: {fileID: 11400000}
+  nextScene: {fileID: 11400000, guid: 5a227718f9adde8459ae4099f6eafac6, type: 2}

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
-  m_Name: 1
+  m_Name: 5 The Choice
   m_EditorClassIdentifier: 
   labels:
-  - text: I belive him in his philosphy
-    nextScene: {fileID: 11400000, guid: 5c6227d9cadb72d45a0dd779c7831002, type: 2}
-  - text: I don't belive his philosphy its a lie
-    nextScene: {fileID: 11400000, guid: c975d072b5ce79f48bab216401293944, type: 2}
+  - text: Use the stone
+    nextScene: {fileID: 11400000, guid: e53a6b4516fe27c4f9b5976a26a7caa9, type: 2}
+  - text: Don't use the stone
+    nextScene: {fileID: 11400000, guid: d2a08f95b663aad43af64c80393413d7, type: 2}

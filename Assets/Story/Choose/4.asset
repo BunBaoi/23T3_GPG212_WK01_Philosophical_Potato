@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
-  m_Name: 1
+  m_Name: 4
   m_EditorClassIdentifier: 
   labels:
-  - text: I belive him in his philosphy
-    nextScene: {fileID: 11400000, guid: 5c6227d9cadb72d45a0dd779c7831002, type: 2}
-  - text: I don't belive his philosphy its a lie
-    nextScene: {fileID: 11400000, guid: c975d072b5ce79f48bab216401293944, type: 2}
+  - text: Respawn
+    nextScene: {fileID: 11400000, guid: e49ff8b3e9d38a644b6bb73e0ed39ffa, type: 2}

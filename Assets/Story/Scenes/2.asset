@@ -13,10 +13,21 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   sentences:
-  - text: Hello King Potato
+  - text: Welcome lluu la...sorry what was your name again?
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: Its Lucas
     speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
-  - text: Hello indeed, Lucas I will give a certain questions that you will perfom
-      to in order for me to trust you
+  - text: Ah Yes, Lucas I would like inform you my philosphy to see whether I can
+      trust you  or not as you are not the first to be summoned here and betray my
+      trust.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: Now let me explain our Kingdom Philosphy.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: We Potatos are simple and have hidden potential, that beholds our true
+      capabilities, emphasising the importance of  humility in our journey of growth
+      and self-discovery.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: Do you trust have faith in my Philosphy Potato. Choose wisely.
     speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
   background: {fileID: 21300000, guid: b370024f0c806144d8cf08ccb41224a6, type: 3}
-  nextScene: {fileID: 11400000, guid: 322cc1a5845dec844a3dab162f68e0ff, type: 2}
+  nextScene: {fileID: 11400000, guid: 062cb8e5f8e29934da8d95431ad347a9, type: 2}

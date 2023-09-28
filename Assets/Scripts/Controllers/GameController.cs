@@ -69,7 +69,7 @@ public class GameController : MonoBehaviour
         else if (scene is ChooseScene)
         {
             state = State.CHOOSE;
-            //chooseController.SetupChoose(scene as ChooseScene);
+            chooseController.SetupChoose(scene as ChooseScene);
         }
     }
 }

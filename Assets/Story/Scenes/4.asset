@@ -12,6 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
   m_Name: 4
   m_EditorClassIdentifier: 
-  sentences: []
-  background: {fileID: 21300000, guid: 007d30d537ae02443a352aeb107f75d8, type: 3}
-  nextScene: {fileID: 0}
+  sentences:
+  - text: Thank you for beliving in our philosphy and may I grant you a worthy position.
+      My KNIGHT OF SPUD KINGDOM
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: spud kingdom?
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: QUIET! Don't trash the name I cleverly created
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: Now shoooo
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+  - text: Now get some rest. Go get some rest. I will need you tomorrow for a task
+      that will await you.
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+  - text: (You leave the King and wait to see him tomorrow)
+    speaker: {fileID: 11400000, guid: b5d673da12598cc46900bb7842c901ff, type: 2}
+  background: {fileID: 21300000, guid: b370024f0c806144d8cf08ccb41224a6, type: 3}
+  nextScene: {fileID: 11400000, guid: 322cc1a5845dec844a3dab162f68e0ff, type: 2}
